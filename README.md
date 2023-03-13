@@ -43,7 +43,9 @@ To access Tinkercad, we first need to create an account. By accessing this [Tink
 
 <p align="center">
    Afterwards click on the 3D Modeling tab and hit new. 
+  <br> 
   <img src="https://i.ibb.co/7KCCMrK/image.png" />
+  <br> 
   Thats it! Now we can proceed to the next part of the Workshop and Create our own 3D Models! 
 </p>
 

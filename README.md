@@ -33,15 +33,18 @@ To access Tinkercad, we first need to create an account. By accessing this [Tink
 
 <p align='center'>
   After completing sign up, we will access the 3D Modeling section from the splash page. Click on "Designs" 
+  
  </p>
 
-
+<br> 
 <p align="center">
+  
   <img src="https://i.ibb.co/zbrGwPS/image.png1" />
 </p>
 
 
 <p align="center">
+  <br> 
    Afterwards click on the 3D Modeling tab and hit new. 
   <br> 
   <img src="https://i.ibb.co/7KCCMrK/image.png" />
@@ -53,29 +56,30 @@ To access Tinkercad, we first need to create an account. By accessing this [Tink
 
 The Tinkercad Workspace is where we will be creating our own 3D models. Each Object on this workspace has an X, Y and Z Value, defining all directions a 3D object can exist and move in. In order to move the camera, right click and move your mouse/trackpad. Using the toolbox on the right, we can access a multitude of different shapes and 3D Objects. Tinkercad has built in models that you can save and download...and even print for yourself with a 3D Printer! 
 
-
+<br> 
 <p align="center">
   <img src="https://i.ibb.co/D93Sgmp/image.png" />
 </p>
-
+<br> 
 You can edit the dimensions and properties of an object by placing it down on the workspace and using the pop-up menu when clicking on it. 
-
+<br> 
 <p align="center">
   <img src="https://i.ibb.co/CPgSd7c/image.png" />
 </p>
-
+<br> 
 On the workspace, we of course can move objects wherever we please. In order to do this we can just drag, click and move the object with our mouse. In addition we can change the Length, Width, or Height of an object using one of the many squares marked on the outline of the object. 
-
+<br> 
 <p align="center">
   <img src="https://i.ibb.co/MfyhXtV/image.png" />
 </p>
 
 <p align="center">
   Tinkercad even has a custom text object that you can create any message you want to within it! 
+  <br> 
   <img src="https://i.ibb.co/mzz634z/image.png" />
 </p>
 
-<p align="center">Have Fun experimenting and lets see all of the creative Models you can make! </p>
+<p align="center"> Have Fun experimenting and lets see all of the creative Models you can make! </p>
 
 
 ## Additional Learning

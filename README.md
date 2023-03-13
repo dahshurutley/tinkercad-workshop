@@ -28,10 +28,12 @@ To access Tinkercad, we first need to create an account. By accessing this [Tink
 
 <p align="center">
   <img src="https://i.ibb.co/VHyQhsZ/download.png1" />
-  After completing sign up, we will access the 3D Modeling section from the splash page. Click on "Designs" 
+  
 </p>
 
-
+<p align='center'>
+  After completing sign up, we will access the 3D Modeling section from the splash page. Click on "Designs" 
+ </p>
 
 
 <p align="center">
